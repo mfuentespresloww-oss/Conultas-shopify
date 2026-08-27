@@ -3,6 +3,9 @@ name: Actualizar Dashboard Pending
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "0 9 * * *"
+
 jobs:
   actualizar-dashboard:
     runs-on: ubuntu-latest
