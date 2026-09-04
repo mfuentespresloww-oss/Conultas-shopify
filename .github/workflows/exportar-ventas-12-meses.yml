@@ -1,0 +1,59 @@
+name: Exportar Ventas 12 Meses
+
+on:
+  workflow_dispatch:
+
+jobs:
+  exportar-ventas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Verificar configuración
+        env:
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        run: |
+          if [ -n "$SHOPIFY_STORE" ]; then
+            echo "✅ SHOPIFY_STORE configurado"
+          else
+            echo "❌ SHOPIFY_STORE no configurado"
+          fi
+
+          if [ -n "$SHOPIFY_CLIENT_ID" ]; then
+            echo "✅ CLIENT_ID configurado"
+          else
+            echo "❌ CLIENT_ID no configurado"
+          fi
+
+          if [ -n "$SHOPIFY_CLIENT_SECRET" ]; then
+            echo "✅ CLIENT_SECRET configurado"
+          else
+            echo "❌ CLIENT_SECRET no configurado"
+          fi
+
+      - name: Generar Excel de ventas
+        env:
+          SHOPIFY_STORE: ${{ secrets.SHOPIFY_STORE }}
+          SHOPIFY_CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+        run: node exportar-ventas-12-meses.mjs
+
+      - name: Subir Excel
+        uses: actions/upload-artifact@v4
+        with:
+          name: Ventas-Ultimos-12-Meses
+          path: ventas-data/Ventas_Ultimos_12_Meses.xlsx
+          if-no-files-found: error
