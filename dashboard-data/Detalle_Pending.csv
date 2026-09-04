@@ -1,0 +1,152 @@
+﻿pedido,fecha_creacion,mes_key,mes,gateway,gateway_raw,total_pedido,venta_neta_cobrada_pedido,estado_actual,resultado,fecha_pending,fecha_resultado,minutos_conversion,mensaje_pending
+#15563,2026-01-04T02:03:33Z,2026-01,Enero,Checkout Mercado Pago,Mercado Pago Checkout Pro,554.3,554.3,PAID,PAGADO,2026-01-04T02:03:34Z,2026-01-07T16:10:19Z,5166.8,A $554.30 MXN payment is pending on Mercado Pago Checkout Pro.
+#15565,2026-01-04T04:16:39Z,2026-01,Enero,Openpay,Openpay,1855.44,1855.44,PAID,PAGADO,2026-01-04T04:16:39Z,2026-01-04T19:14:56Z,898.3,"A $1,855.44 MXN payment is pending on Openpay."
+#15582,2026-01-06T16:07:08Z,2026-01,Enero,Openpay,Openpay,679.2,679.2,PAID,PAGADO,2026-01-06T16:07:09Z,2026-01-06T19:53:12Z,226.1,A $679.20 MXN payment is pending on Openpay.
+#15611,2026-01-10T15:26:44Z,2026-01,Enero,Checkout Mercado Pago,Mercado Pago Checkout Pro,1522.8,1522.8,PAID,PAGADO,2026-01-10T15:26:44Z,2026-01-11T16:10:26Z,1483.7,"A $1,522.80 MXN payment is pending on Mercado Pago Checkout Pro."
+#15632,2026-01-13T01:23:41Z,2026-01,Enero,Openpay,Openpay,1228.2,1228.2,PAID,PAGADO,2026-01-13T01:23:42Z,2026-01-14T19:03:00Z,2499.3,"A $1,228.20 MXN payment is pending on Openpay."
+#15693,2026-01-22T14:17:50Z,2026-01,Enero,"Compra ahora, paga después","Compra ahora, paga después",799,0,EXPIRED,NO_CONVERTIDO,2026-01-22T14:17:50Z,2026-01-28T20:20:32Z,,"A $799.00 MXN payment is pending on Compra ahora, paga después."
+#15701,2026-01-23T16:20:16Z,2026-01,Enero,Openpay,Openpay,493.2,0,EXPIRED,NO_CONVERTIDO,2026-01-23T16:20:16Z,2026-01-28T20:20:35Z,,A $493.20 MXN payment is pending on Openpay.
+#15738,2026-01-28T15:01:55Z,2026-01,Enero,Openpay,Openpay,2422.5,0,EXPIRED,NO_CONVERTIDO,2026-01-28T15:01:55Z,2026-02-03T09:50:50Z,,"A $2,422.50 MXN payment is pending on Openpay."
+#15740,2026-01-29T23:58:19Z,2026-01,Enero,Openpay,Openpay,1512,1512,PAID,PAGADO,2026-01-29T23:58:20Z,2026-01-30T19:59:32Z,1201.2,"A $1,512.00 MXN payment is pending on Openpay."
+#15750,2026-01-31T09:00:00Z,2026-01,Enero,Openpay,Openpay,1648.5,0,EXPIRED,NO_CONVERTIDO,2026-01-31T09:00:00Z,2026-02-03T18:57:06Z,,"A $1,648.50 MXN payment is pending on Openpay."
+#15755,2026-02-01T14:06:06Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,1249,0,EXPIRED,NO_CONVERTIDO,2026-02-01T14:06:06Z,2026-02-09T20:07:17Z,,"A $1,249.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#15763,2026-02-03T13:05:48Z,2026-02,Febrero,Openpay,Openpay,2895.5,2895.5,PAID,PAGADO,2026-02-03T13:05:48Z,2026-02-06T11:53:37Z,4247.8,"A $2,895.50 MXN payment is pending on Openpay."
+#15767,2026-02-04T22:24:29Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,819,0,EXPIRED,NO_CONVERTIDO,2026-02-04T22:24:29Z,2026-02-10T17:53:03Z,,A $819.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#15769,2026-02-05T02:58:12Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,849,0,EXPIRED,NO_CONVERTIDO,2026-02-05T02:58:12Z,2026-02-10T17:53:04Z,,A $849.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#15775,2026-02-05T17:20:07Z,2026-02,Febrero,Openpay,Openpay,1179.6,1179.6,PAID,PAGADO,2026-02-05T17:20:08Z,2026-02-05T20:37:45Z,197.6,"A $1,179.60 MXN payment is pending on Openpay."
+#15776,2026-02-05T18:13:00Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,1587.4,1587.4,PAID,PAGADO,2026-02-05T18:13:00Z,2026-02-05T18:13:45Z,0.8,"A $1,587.40 MXN payment is pending on Mercado Pago Checkout Pro."
+#15821,2026-02-11T14:17:51Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,819,0,EXPIRED,NO_CONVERTIDO,2026-02-11T14:17:52Z,2026-02-13T15:25:34Z,,A $819.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#15844,2026-02-14T18:31:23Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,419.7,0,EXPIRED,NO_CONVERTIDO,2026-02-14T18:31:24Z,2026-02-17T15:39:51Z,,A $419.70 MXN payment is pending on Mercado Pago Checkout Pro.
+#15848,2026-02-15T14:42:52Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,1149,0,EXPIRED,NO_CONVERTIDO,2026-02-15T14:42:53Z,2026-02-19T15:14:23Z,,"A $1,149.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#15849,2026-02-15T16:54:43Z,2026-02,Febrero,Openpay,Openpay,1699.83,1699.83,PAID,PAGADO,2026-02-15T16:54:44Z,2026-02-15T18:34:49Z,100.1,"A $1,699.83 MXN payment is pending on Openpay."
+#15864,2026-02-17T12:26:01Z,2026-02,Febrero,Openpay,Openpay,1978.2,0,EXPIRED,NO_CONVERTIDO,2026-02-17T12:26:01Z,2026-02-19T20:16:14Z,,"A $1,978.20 MXN payment is pending on Openpay."
+#15865,2026-02-17T15:43:44Z,2026-02,Febrero,Openpay,Openpay,908,0,EXPIRED,NO_CONVERTIDO,2026-02-17T15:43:44Z,2026-02-20T10:29:09Z,,A $908.00 MXN payment is pending on Openpay.
+#15883,2026-02-21T18:42:22Z,2026-02,Febrero,Openpay,Openpay,1817.2,1817.2,PAID,PAGADO,2026-02-21T18:42:23Z,2026-02-23T18:33:49Z,2871.4,"A $1,817.20 MXN payment is pending on Openpay."
+#15889,2026-02-22T19:13:44Z,2026-02,Febrero,Openpay,Openpay,1298,0,EXPIRED,NO_CONVERTIDO,2026-02-22T19:13:44Z,2026-02-26T07:56:44Z,,"A $1,298.00 MXN payment is pending on Openpay."
+#15892,2026-02-23T20:14:54Z,2026-02,Febrero,Openpay,Openpay,1697,0,EXPIRED,NO_CONVERTIDO,2026-02-23T20:14:55Z,2026-02-26T16:59:30Z,,"A $1,697.00 MXN payment is pending on Openpay."
+#15898,2026-02-24T14:10:34Z,2026-02,Febrero,Openpay,Openpay,1540.9,0,EXPIRED,NO_CONVERTIDO,2026-02-24T14:10:35Z,2026-02-26T20:08:54Z,,"A $1,540.90 MXN payment is pending on Openpay."
+#15912,2026-02-27T04:20:01Z,2026-02,Febrero,Checkout Mercado Pago,Mercado Pago Checkout Pro,419.7,419.7,PAID,PAGADO,2026-02-27T04:20:01Z,2026-03-01T16:10:17Z,3590.3,A $419.70 MXN payment is pending on Mercado Pago Checkout Pro.
+#15936,2026-03-03T05:00:21Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1299,0,EXPIRED,NO_CONVERTIDO,2026-03-03T05:00:21Z,2026-03-06T15:48:34Z,,"A $1,299.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#15942,2026-03-04T01:44:01Z,2026-03,Marzo,Openpay,Openpay,2175.3,0,EXPIRED,NO_CONVERTIDO,2026-03-04T01:44:02Z,2026-03-09T17:14:40Z,,"A $2,175.30 MXN payment is pending on Openpay."
+#15951,2026-03-05T00:01:24Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,719,0,EXPIRED,NO_CONVERTIDO,2026-03-05T00:01:25Z,2026-03-06T15:48:34Z,,A $719.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#15952,2026-03-05T00:06:40Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,719,0,EXPIRED,NO_CONVERTIDO,2026-03-05T00:06:41Z,2026-03-06T15:48:35Z,,A $719.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#15959,2026-03-06T18:54:31Z,2026-03,Marzo,"Compra ahora, paga después","Compra ahora, paga después",799,0,EXPIRED,NO_CONVERTIDO,2026-03-06T18:54:32Z,2026-03-09T17:14:40Z,,"A $799.00 MXN payment is pending on Compra ahora, paga después."
+#15980,2026-03-10T13:58:31Z,2026-03,Marzo,Openpay,Openpay,1398,0,EXPIRED,NO_CONVERTIDO,2026-03-10T13:58:31Z,2026-03-17T07:58:39Z,,"A $1,398.00 MXN payment is pending on Openpay."
+#15983,2026-03-11T19:07:14Z,2026-03,Marzo,"Compra ahora, paga después","Compra ahora, paga después",1149,1149,PAID,PAGADO,2026-03-11T19:07:15Z,2026-03-12T16:10:23Z,1263.1,"A $1,149.00 MXN payment is pending on Compra ahora, paga después."
+#15988,2026-03-12T16:31:07Z,2026-03,Marzo,Openpay,Openpay,3213.5,0,EXPIRED,NO_CONVERTIDO,2026-03-12T16:31:07Z,2026-03-18T16:54:57Z,,"A $3,213.50 MXN payment is pending on Openpay."
+#15998,2026-03-15T06:26:48Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1897,0,EXPIRED,NO_CONVERTIDO,2026-03-15T06:26:48Z,2026-03-18T18:32:18Z,,"A $1,897.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16002,2026-03-16T23:16:19Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1549,1549,PAID,PAGADO,2026-03-16T23:16:19Z,2026-03-18T16:10:29Z,2454.2,"A $1,549.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16005,2026-03-17T16:51:21Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1797,1797,PAID,PAGADO,2026-03-17T16:51:22Z,2026-03-18T16:10:26Z,1399.1,"A $1,797.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16007,2026-03-17T20:24:46Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,3213.5,3213.5,PAID,PAGADO,2026-03-17T20:24:47Z,2026-03-18T16:10:38Z,1185.8,"A $3,213.50 MXN payment is pending on Mercado Pago Checkout Pro."
+#16013,2026-03-19T00:26:45Z,2026-03,Marzo,Openpay,Openpay,2596,0,EXPIRED,NO_CONVERTIDO,2026-03-19T00:26:46Z,2026-03-24T23:13:24Z,,"A $2,596.00 MXN payment is pending on Openpay."
+#16014,2026-03-19T02:48:32Z,2026-03,Marzo,Openpay,Openpay,1348,0,EXPIRED,NO_CONVERTIDO,2026-03-19T02:48:33Z,2026-03-24T23:14:51Z,,"A $1,348.00 MXN payment is pending on Openpay."
+#16033,2026-03-22T21:41:39Z,2026-03,Marzo,Openpay,Openpay,1418,0,EXPIRED,NO_CONVERTIDO,2026-03-22T21:41:39Z,2026-03-25T16:41:30Z,,"A $1,418.00 MXN payment is pending on Openpay."
+#16035,2026-03-23T16:52:40Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1318,0,EXPIRED,NO_CONVERTIDO,2026-03-23T16:52:40Z,2026-03-30T16:07:13Z,,"A $1,318.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16036,2026-03-23T18:45:37Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,849,849,PAID,PAGADO,2026-03-23T18:45:37Z,2026-03-24T16:10:37Z,1285,A $849.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#16046,2026-03-25T03:17:49Z,2026-03,Marzo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1526,0,EXPIRED,NO_CONVERTIDO,2026-03-25T03:17:50Z,2026-03-30T16:07:14Z,,"A $1,526.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16047,2026-03-25T05:20:34Z,2026-03,Marzo,Openpay,Openpay,1418,0,EXPIRED,NO_CONVERTIDO,2026-03-25T05:20:35Z,2026-03-27T19:20:46Z,,"A $1,418.00 MXN payment is pending on Openpay."
+#16058,2026-03-27T17:10:00Z,2026-03,Marzo,Openpay,Openpay,1477,0,EXPIRED,NO_CONVERTIDO,2026-03-27T17:10:01Z,2026-03-31T08:36:00Z,,"A $1,477.00 MXN payment is pending on Openpay."
+#16060,2026-03-27T19:20:41Z,2026-03,Marzo,Openpay,Openpay,1477,0,EXPIRED,NO_CONVERTIDO,2026-03-27T19:20:42Z,2026-03-31T08:35:59Z,,"A $1,477.00 MXN payment is pending on Openpay."
+#16064,2026-03-28T14:04:41Z,2026-03,Marzo,Openpay,Openpay,2164,0,EXPIRED,NO_CONVERTIDO,2026-03-28T14:04:42Z,2026-04-06T16:47:31Z,,"A $2,164.00 MXN payment is pending on Openpay."
+#16070,2026-03-29T22:52:43Z,2026-03,Marzo,Openpay,Openpay,974.25,0,EXPIRED,NO_CONVERTIDO,2026-03-29T22:52:44Z,2026-04-06T16:47:34Z,,A $974.25 MXN payment is pending on Openpay.
+#16111,2026-04-07T23:41:01Z,2026-04,Abril,Checkout Mercado Pago,Mercado Pago Checkout Pro,1199,0,EXPIRED,NO_CONVERTIDO,2026-04-07T23:41:01Z,2026-04-10T15:26:27Z,,"A $1,199.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16125,2026-04-10T23:11:38Z,2026-04,Abril,Checkout Mercado Pago,Mercado Pago Checkout Pro,649,0,EXPIRED,NO_CONVERTIDO,2026-04-10T23:11:42Z,2026-04-12T01:33:42Z,,A $649.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#16129,2026-04-11T23:40:27Z,2026-04,Abril,Checkout Mercado Pago,Mercado Pago Checkout Pro,1947,0,EXPIRED,NO_CONVERTIDO,2026-04-11T23:40:28Z,2026-04-17T15:49:53Z,,"A $1,947.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16130,2026-04-12T05:38:55Z,2026-04,Abril,Openpay,Openpay,1698,0,EXPIRED,NO_CONVERTIDO,2026-04-12T05:38:55Z,2026-04-16T17:03:26Z,,"A $1,698.00 MXN payment is pending on Openpay."
+#16152,2026-04-17T03:19:38Z,2026-04,Abril,Openpay,Openpay,1774,0,EXPIRED,NO_CONVERTIDO,2026-04-17T03:19:38Z,2026-04-20T18:27:06Z,,"A $1,774.00 MXN payment is pending on Openpay."
+#16158,2026-04-18T04:17:05Z,2026-04,Abril,"Compra ahora, paga después","Compra ahora, paga después",867,0,EXPIRED,NO_CONVERTIDO,2026-04-18T04:17:06Z,2026-04-23T15:49:27Z,,"A $867.00 MXN payment is pending on Compra ahora, paga después."
+#16162,2026-04-19T06:14:44Z,2026-04,Abril,Checkout Mercado Pago,Mercado Pago Checkout Pro,2697,0,EXPIRED,NO_CONVERTIDO,2026-04-19T06:14:45Z,2026-04-23T15:48:41Z,,"A $2,697.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16163,2026-04-19T13:29:41Z,2026-04,Abril,Openpay,Openpay,1048.5,0,EXPIRED,NO_CONVERTIDO,2026-04-19T13:29:42Z,2026-04-21T23:17:36Z,,"A $1,048.50 MXN payment is pending on Openpay."
+#16179,2026-04-20T06:23:46Z,2026-04,Abril,Openpay,Openpay,1657,0,EXPIRED,NO_CONVERTIDO,2026-04-20T06:23:47Z,2026-04-23T15:48:09Z,,"A $1,657.00 MXN payment is pending on Openpay."
+#16187,2026-04-21T22:44:06Z,2026-04,Abril,Openpay,Openpay,1774,0,EXPIRED,NO_CONVERTIDO,2026-04-21T22:44:07Z,2026-04-27T15:53:23Z,,"A $1,774.00 MXN payment is pending on Openpay."
+#16200,2026-04-23T18:53:42Z,2026-04,Abril,Openpay,Openpay,794.25,0,EXPIRED,NO_CONVERTIDO,2026-04-23T18:53:43Z,2026-04-27T15:54:03Z,,A $794.25 MXN payment is pending on Openpay.
+#16201,2026-04-23T18:59:52Z,2026-04,Abril,Openpay,Openpay,1468.5,0,EXPIRED,NO_CONVERTIDO,2026-04-23T18:59:53Z,2026-04-27T15:54:25Z,,"A $1,468.50 MXN payment is pending on Openpay."
+#16209,2026-04-24T18:39:29Z,2026-04,Abril,Openpay,Openpay,1548,0,EXPIRED,NO_CONVERTIDO,2026-04-24T18:39:30Z,2026-04-27T15:55:14Z,,"A $1,548.00 MXN payment is pending on Openpay."
+#16228,2026-04-28T11:56:48Z,2026-04,Abril,Openpay,Openpay,1654,1654,PAID,PAGADO,2026-04-28T11:56:49Z,2026-04-28T20:48:55Z,532.1,"A $1,654.00 MXN payment is pending on Openpay."
+#16238,2026-04-30T11:28:38Z,2026-04,Abril,Checkout Mercado Pago,Mercado Pago Checkout Pro,849,0,EXPIRED,NO_CONVERTIDO,2026-04-30T11:28:39Z,2026-05-04T18:46:41Z,,A $849.00 MXN payment is pending on Mercado Pago Checkout Pro.
+#16239,2026-04-30T15:05:47Z,2026-04,Abril,Openpay,Openpay,2596,0,EXPIRED,NO_CONVERTIDO,2026-04-30T15:05:48Z,2026-05-06T15:38:01Z,,"A $2,596.00 MXN payment is pending on Openpay."
+#16240,2026-04-30T22:37:09Z,2026-04,Abril,Mercado Pago Tarjetas,Mercado Pago Tarjetas,1662.53,1662.53,PAID,PAGADO,2026-04-30T22:37:09Z,2026-05-01T01:41:29Z,184.3,"A $1,662.53 MXN payment is pending using a Visa ending in 8032."
+#16256,2026-05-04T05:25:47Z,2026-05,Mayo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1448,0,EXPIRED,NO_CONVERTIDO,2026-05-04T05:25:47Z,2026-05-08T18:10:49Z,,"A $1,448.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16260,2026-05-04T20:17:55Z,2026-05,Mayo,Openpay,Openpay,1647,0,EXPIRED,NO_CONVERTIDO,2026-05-04T20:17:56Z,2026-05-06T15:37:26Z,,"A $1,647.00 MXN payment is pending on Openpay."
+#16279,2026-05-07T00:12:22Z,2026-05,Mayo,Checkout Mercado Pago,Mercado Pago Checkout Pro,944.25,944.25,PAID,PAGADO,2026-05-07T00:12:23Z,2026-05-07T00:34:14Z,21.9,A $944.25 MXN payment is pending on Mercado Pago Checkout Pro.
+#16292,2026-05-08T18:02:54Z,2026-05,Mayo,Openpay,Openpay,1348,1348,PAID,PAGADO,2026-05-08T18:02:54Z,2026-05-09T20:29:52Z,1587,"A $1,348.00 MXN payment is pending on Openpay."
+#16324,2026-05-14T04:14:47Z,2026-05,Mayo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1048,0,EXPIRED,NO_CONVERTIDO,2026-05-14T04:14:47Z,2026-05-18T16:49:22Z,,"A $1,048.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#16351,2026-05-18T18:18:10Z,2026-05,Mayo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1092.9,1092.9,PAID,PAGADO,2026-05-18T18:18:11Z,2026-05-21T16:10:29Z,4192.3,"A $1,092.90 MXN payment is pending on Mercado Pago Checkout Pro."
+#16361,2026-05-19T06:06:01Z,2026-05,Mayo,Openpay,Openpay,371.58,371.58,PAID,PAGADO,2026-05-19T06:06:01Z,2026-05-19T19:55:42Z,829.7,A $371.58 MXN payment is pending on Openpay.
+#16362,2026-05-19T11:47:43Z,2026-05,Mayo,Openpay,Openpay,653.16,0,EXPIRED,NO_CONVERTIDO,2026-05-19T11:47:44Z,2026-05-21T18:35:48Z,,A $653.16 MXN payment is pending on Openpay.
+#16379,2026-05-20T13:11:05Z,2026-05,Mayo,Openpay,Openpay,778.6,0,EXPIRED,NO_CONVERTIDO,2026-05-20T13:11:06Z,2026-05-22T20:30:38Z,,A $778.60 MXN payment is pending on Openpay.
+#16402,2026-05-22T03:47:51Z,2026-05,Mayo,Checkout Mercado Pago,Mercado Pago Checkout Pro,1571.5,1571.5,PAID,PAGADO,2026-05-22T03:47:51Z,2026-05-23T16:10:36Z,2182.8,"A $1,571.50 MXN payment is pending on Mercado Pago Checkout Pro."
+#16411,2026-05-22T22:27:30Z,2026-05,Mayo,Openpay,Openpay,750.77,0,EXPIRED,NO_CONVERTIDO,2026-05-22T22:27:30Z,2026-05-25T20:15:32Z,,A $750.77 MXN payment is pending on Openpay.
+#16420,2026-05-23T19:54:55Z,2026-05,Mayo,Openpay,Openpay,1602.75,1602.75,PAID,PAGADO,2026-05-23T19:54:55Z,2026-05-23T20:36:14Z,41.3,"A $1,602.75 MXN payment is pending on Openpay."
+#16435,2026-05-25T13:55:55Z,2026-05,Mayo,Openpay,Openpay,891.15,0,EXPIRED,NO_CONVERTIDO,2026-05-25T13:55:56Z,2026-05-29T07:30:30Z,,A $891.15 MXN payment is pending on Openpay.
+#16443,2026-05-25T20:31:30Z,2026-05,Mayo,Openpay,Openpay,928.65,0,EXPIRED,NO_CONVERTIDO,2026-05-25T20:31:31Z,2026-05-29T07:30:30Z,,A $928.65 MXN payment is pending on Openpay.
+#16474,2026-05-27T20:19:24Z,2026-05,Mayo,Openpay,Openpay,1563.39,1563.39,PAID,PAGADO,2026-05-27T20:19:25Z,2026-05-30T16:42:32Z,4103.1,"A $1,563.39 MXN payment is pending on Openpay."
+#16490,2026-05-28T17:25:54Z,2026-05,Mayo,Openpay,Openpay,569.25,569.25,PAID,PAGADO,2026-05-28T17:25:55Z,2026-05-28T22:19:13Z,293.3,A $569.25 MXN payment is pending on Openpay.
+#16503,2026-05-29T12:32:55Z,2026-05,Mayo,Openpay,Openpay,1610.25,0,EXPIRED,NO_CONVERTIDO,2026-05-29T12:32:55Z,2026-06-02T07:35:48Z,,"A $1,610.25 MXN payment is pending on Openpay."
+#16530,2026-05-30T17:07:19Z,2026-05,Mayo,Openpay,Openpay,1582.65,0,EXPIRED,NO_CONVERTIDO,2026-05-30T17:07:20Z,2026-06-02T20:45:11Z,,"A $1,582.65 MXN payment is pending on Openpay."
+#16585,2026-06-02T03:28:45Z,2026-06,Junio,Openpay,Openpay,1552.7,0,EXPIRED,NO_CONVERTIDO,2026-06-02T03:28:45Z,2026-06-04T17:28:46Z,,"A $1,552.70 MXN payment is pending on Openpay."
+#16599,2026-06-03T18:14:50Z,2026-06,Junio,Checkout Mercado Pago,Mercado Pago Checkout Pro,1059.3,1059.3,PAID,PAGADO,2026-06-03T18:14:51Z,2026-06-04T16:10:18Z,1315.5,"A $1,059.30 MXN payment is pending on Mercado Pago Checkout Pro."
+#16617,2026-06-06T20:07:27Z,2026-06,Junio,Openpay,Openpay,1527,0,EXPIRED,NO_CONVERTIDO,2026-06-06T20:07:28Z,2026-06-09T07:31:44Z,,"A $1,527.00 MXN payment is pending on Openpay."
+#16623,2026-06-07T23:22:18Z,2026-06,Junio,Openpay,Openpay,629.2,0,EXPIRED,NO_CONVERTIDO,2026-06-07T23:22:19Z,2026-06-10T15:42:13Z,,A $629.20 MXN payment is pending on Openpay.
+#16625,2026-06-08T01:05:03Z,2026-06,Junio,Openpay,Openpay,629.2,0,EXPIRED,NO_CONVERTIDO,2026-06-08T01:05:03Z,2026-06-10T15:42:16Z,,A $629.20 MXN payment is pending on Openpay.
+#16629,2026-06-08T15:32:56Z,2026-06,Junio,Openpay,Openpay,1647,0,EXPIRED,NO_CONVERTIDO,2026-06-08T15:32:56Z,2026-06-11T15:23:36Z,,"A $1,647.00 MXN payment is pending on Openpay."
+#16646,2026-06-10T01:03:37Z,2026-06,Junio,Openpay,Openpay,1587.6,0,EXPIRED,NO_CONVERTIDO,2026-06-10T01:03:38Z,2026-06-16T15:45:04Z,,"A $1,587.60 MXN payment is pending on Openpay."
+#16648,2026-06-10T04:50:34Z,2026-06,Junio,Mercado Pago Tarjetas,Mercado Pago Tarjetas,2049.84,0,EXPIRED,NO_CONVERTIDO,2026-06-10T04:50:35Z,2026-06-10T04:50:44Z,,"A $2,049.84 MXN payment is pending using a Visa ending in 8988."
+#16649,2026-06-10T06:16:22Z,2026-06,Junio,Openpay,Openpay,1189.2,0,EXPIRED,NO_CONVERTIDO,2026-06-10T06:16:22Z,2026-06-16T16:03:47Z,,"A $1,189.20 MXN payment is pending on Openpay."
+#16663,2026-06-12T23:32:26Z,2026-06,Junio,PayPal,paypal,629.2,629.2,PAID,PAGADO,2026-06-12T23:32:27Z,2026-06-23T20:00:45Z,15628.3,A $629.20 MXN payment is pending on paypal.
+#16687,2026-06-14T17:06:26Z,2026-06,Junio,Openpay,Openpay,2665.2,2665.2,PAID,PAGADO,2026-06-14T17:06:27Z,2026-06-14T17:36:10Z,29.7,"A $2,665.20 MXN payment is pending on Openpay."
+#16715,2026-06-17T06:23:53Z,2026-06,Junio,Checkout Mercado Pago,Mercado Pago Checkout Pro,4772.52,4772.52,PAID,PAGADO,2026-06-17T06:23:54Z,2026-06-19T00:16:28Z,2512.6,"A $4,772.52 MXN payment is pending on Mercado Pago Checkout Pro."
+#16726,2026-06-18T19:19:05Z,2026-06,Junio,Openpay,Openpay,1725.3,1725.3,PAID,PAGADO,2026-06-18T19:19:06Z,2026-06-20T23:45:21Z,3146.3,"A $1,725.30 MXN payment is pending on Openpay."
+#16782,2026-06-26T14:45:05Z,2026-06,Junio,Checkout Mercado Pago,Mercado Pago Checkout Pro,744.3,744.3,PAID,PAGADO,2026-06-26T14:45:05Z,2026-06-27T16:10:24Z,1525.3,A $744.30 MXN payment is pending on Mercado Pago Checkout Pro.
+#16784,2026-06-26T16:31:15Z,2026-06,Junio,Openpay,Openpay,509.4,0,EXPIRED,NO_CONVERTIDO,2026-06-26T16:31:15Z,2026-06-30T07:38:11Z,,A $509.40 MXN payment is pending on Openpay.
+#16836,2026-07-03T18:08:35Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,1527.75,1527.75,PAID,PAGADO,2026-07-03T18:08:36Z,2026-07-04T16:10:22Z,1321.8,"A $1,527.75 MXN payment is pending on Mercado Pago Checkout Pro."
+#16866,2026-07-08T14:14:26Z,2026-07,Julio,Openpay,Openpay,1577.2,1577.2,PAID,PAGADO,2026-07-08T14:14:27Z,2026-07-08T15:28:47Z,74.3,"A $1,577.20 MXN payment is pending on Openpay."
+#16869,2026-07-08T20:14:09Z,2026-07,Julio,Openpay,Openpay,1478.7,0,EXPIRED,NO_CONVERTIDO,2026-07-08T20:14:10Z,2026-07-14T07:36:06Z,,"A $1,478.70 MXN payment is pending on Openpay."
+#16870,2026-07-08T22:38:27Z,2026-07,Julio,Openpay,Openpay,1109.3,1109.3,PAID,PAGADO,2026-07-08T22:38:29Z,2026-07-08T23:19:07Z,40.6,"A $1,109.30 MXN payment is pending on Openpay."
+#16882,2026-07-09T22:50:00Z,2026-07,Julio,Openpay,Openpay,1478.7,0,EXPIRED,NO_CONVERTIDO,2026-07-09T22:50:00Z,2026-07-14T07:36:05Z,,"A $1,478.70 MXN payment is pending on Openpay."
+#16906,2026-07-13T15:41:03Z,2026-07,Julio,Openpay,Openpay,699,0,EXPIRED,NO_CONVERTIDO,2026-07-13T15:41:04Z,2026-07-17T18:00:54Z,,A $699.00 MXN payment is pending on Openpay.
+#16911,2026-07-13T23:43:53Z,2026-07,Julio,Openpay,Openpay,1599,1599,PAID,PAGADO,2026-07-13T23:43:54Z,2026-07-14T00:36:18Z,52.4,"A $1,599.00 MXN payment is pending on Openpay."
+#16920,2026-07-15T01:51:13Z,2026-07,Julio,"Compra ahora, paga después","Compra ahora, paga después",1857.6,1857.6,PAID,PAGADO,2026-07-15T01:51:13Z,2026-07-15T16:12:01Z,860.8,"A $1,857.60 MXN payment is pending on Compra ahora, paga después."
+#16946,2026-07-18T23:15:43Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,679.2,0,REFUNDED,PAGADO,2026-07-18T23:15:43Z,2026-07-24T16:11:55Z,8216.2,A $679.20 MXN payment is pending on Mercado Pago Checkout Pro.
+#16947,2026-07-19T06:50:02Z,2026-07,Julio,Openpay,Openpay,1548.6,1548.6,PAID,PAGADO,2026-07-19T06:50:02Z,2026-07-21T00:53:02Z,2523,"A $1,548.60 MXN payment is pending on Openpay."
+#16957,2026-07-20T13:57:43Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,669.2,669.2,PAID,PAGADO,2026-07-20T13:57:44Z,2026-07-22T16:12:09Z,3014.4,A $669.20 MXN payment is pending on Mercado Pago Checkout Pro.
+#16961,2026-07-21T03:34:34Z,2026-07,Julio,Openpay,Openpay,1575,0,EXPIRED,NO_CONVERTIDO,2026-07-21T03:34:35Z,2026-07-23T16:12:20Z,,"A $1,575.00 MXN payment is pending on Openpay."
+#16971,2026-07-22T17:50:23Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,1557.6,1557.6,PAID,PAGADO,2026-07-22T17:50:24Z,2026-07-24T16:11:56Z,2781.5,"A $1,557.60 MXN payment is pending on Mercado Pago Checkout Pro."
+#16973,2026-07-22T20:32:38Z,2026-07,Julio,Openpay,Openpay,1587,0,EXPIRED,NO_CONVERTIDO,2026-07-22T20:32:39Z,2026-07-27T16:47:07Z,,"A $1,587.00 MXN payment is pending on Openpay."
+#16983,2026-07-23T19:33:39Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,1748.6,1748.6,PAID,PAGADO,2026-07-23T19:33:39Z,2026-07-24T16:12:03Z,1238.4,"A $1,748.60 MXN payment is pending on Mercado Pago Checkout Pro."
+#16987,2026-07-24T03:22:36Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,679.2,679.2,PAID,PAGADO,2026-07-24T03:22:37Z,2026-07-25T16:11:52Z,2209.3,A $679.20 MXN payment is pending on Mercado Pago Checkout Pro.
+#16990,2026-07-24T14:44:50Z,2026-07,Julio,Openpay,Openpay,1797,0,EXPIRED,NO_CONVERTIDO,2026-07-24T14:44:51Z,2026-07-28T08:35:49Z,,"A $1,797.00 MXN payment is pending on Openpay."
+#17014,2026-07-26T06:11:40Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,1677,0,EXPIRED,NO_CONVERTIDO,2026-07-26T06:11:40Z,2026-07-29T22:45:18Z,,"A $1,677.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17024,2026-07-27T19:51:10Z,2026-07,Julio,Openpay,Openpay,1778.76,1778.76,PAID,PAGADO,2026-07-27T19:51:11Z,2026-07-28T23:36:20Z,1665.2,"A $1,778.76 MXN payment is pending on Openpay."
+#17027,2026-07-28T00:34:25Z,2026-07,Julio,Checkout Mercado Pago,Mercado Pago Checkout Pro,1797,0,EXPIRED,NO_CONVERTIDO,2026-07-28T00:34:26Z,2026-08-03T18:24:48Z,,"A $1,797.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17069,2026-08-01T04:26:46Z,2026-07,Julio,Openpay,Openpay,2216.4,0,EXPIRED,NO_CONVERTIDO,2026-08-01T04:26:47Z,2026-08-05T19:02:04Z,,"A $2,216.40 MXN payment is pending on Openpay."
+#17074,2026-08-01T18:35:38Z,2026-08,Agosto,Openpay,Openpay,1737,1737,PAID,PAGADO,2026-08-01T18:35:39Z,2026-08-01T21:20:25Z,164.8,"A $1,737.00 MXN payment is pending on Openpay."
+#17090,2026-08-02T19:27:43Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,1557.6,1557.6,PAID,PAGADO,2026-08-02T19:27:44Z,2026-08-02T23:49:16Z,261.5,"A $1,557.60 MXN payment is pending on Mercado Pago Checkout Pro."
+#17124,2026-08-05T20:30:06Z,2026-08,Agosto,Openpay,Openpay,1228.2,1228.2,PAID,PAGADO,2026-08-05T20:30:07Z,2026-08-05T22:47:42Z,137.6,"A $1,228.20 MXN payment is pending on Openpay."
+#17135,2026-08-06T23:51:07Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,599.2,599.2,PAID,PAGADO,2026-08-06T23:51:08Z,2026-08-07T21:40:24Z,1309.3,A $599.20 MXN payment is pending on Mercado Pago Checkout Pro.
+#17151,2026-08-08T10:10:00Z,2026-08,Agosto,Openpay,Openpay,1602.84,1602.84,PAID,PAGADO,2026-08-08T10:10:00Z,2026-08-08T10:36:47Z,26.8,"A $1,602.84 MXN payment is pending on Openpay."
+#17155,2026-08-08T20:27:11Z,2026-08,Agosto,Openpay,Openpay,1797,0,EXPIRED,NO_CONVERTIDO,2026-08-08T20:27:12Z,2026-08-12T16:31:01Z,,"A $1,797.00 MXN payment is pending on Openpay."
+#17202,2026-08-10T22:18:42Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,2747,0,EXPIRED,NO_CONVERTIDO,2026-08-10T22:18:43Z,2026-08-14T18:11:08Z,,"A $2,747.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17204,2026-08-11T00:35:35Z,2026-08,Agosto,Openpay,Openpay,1622.5,0,EXPIRED,NO_CONVERTIDO,2026-08-11T00:35:36Z,2026-08-13T22:39:25Z,,"A $1,622.50 MXN payment is pending on Openpay."
+#17214,2026-08-11T11:51:48Z,2026-08,Agosto,Openpay,Openpay,2745.41,0,EXPIRED,NO_CONVERTIDO,2026-08-11T11:51:49Z,2026-08-17T08:00:15Z,,"A $2,745.41 MXN payment is pending on Openpay."
+#17250,2026-08-13T21:06:26Z,2026-08,Agosto,Openpay,Openpay,2011.75,0,EXPIRED,NO_CONVERTIDO,2026-08-13T21:06:27Z,2026-08-18T08:13:52Z,,"A $2,011.75 MXN payment is pending on Openpay."
+#17253,2026-08-13T23:47:22Z,2026-08,Agosto,Openpay,Openpay,1188.7,0,EXPIRED,NO_CONVERTIDO,2026-08-13T23:47:22Z,2026-08-17T17:50:59Z,,"A $1,188.70 MXN payment is pending on Openpay."
+#17254,2026-08-14T00:47:46Z,2026-08,Agosto,Openpay,Openpay,1188.7,0,EXPIRED,NO_CONVERTIDO,2026-08-14T00:47:47Z,2026-08-17T17:51:02Z,,"A $1,188.70 MXN payment is pending on Openpay."
+#17256,2026-08-14T01:07:24Z,2026-08,Agosto,Openpay,Openpay,1188.7,1188.7,PAID,PAGADO,2026-08-14T01:07:24Z,2026-08-14T15:01:35Z,834.2,"A $1,188.70 MXN payment is pending on Openpay."
+#17267,2026-08-14T21:05:21Z,2026-08,Agosto,Openpay,Openpay,1158.7,0,EXPIRED,NO_CONVERTIDO,2026-08-14T21:05:22Z,2026-08-17T17:51:04Z,,"A $1,158.70 MXN payment is pending on Openpay."
+#17320,2026-08-17T23:54:46Z,2026-08,Agosto,"Compra ahora, paga después","Compra ahora, paga después",2396,0,EXPIRED,NO_CONVERTIDO,2026-08-17T23:54:47Z,2026-08-19T22:03:54Z,,"A $2,396.00 MXN payment is pending on Compra ahora, paga después."
+#17354,2026-08-18T21:28:53Z,2026-08,Agosto,Openpay,Openpay,2636.4,0,EXPIRED,NO_CONVERTIDO,2026-08-18T21:28:54Z,2026-08-21T07:32:11Z,,"A $2,636.40 MXN payment is pending on Openpay."
+#17362,2026-08-19T22:30:11Z,2026-08,Agosto,Openpay,Openpay,1697,1697,PAID,PAGADO,2026-08-19T22:30:12Z,2026-08-20T19:25:37Z,1255.4,"A $1,697.00 MXN payment is pending on Openpay."
+#17374,2026-08-22T02:49:25Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,1149,0,EXPIRED,NO_CONVERTIDO,2026-08-22T02:49:25Z,2026-08-26T15:40:52Z,,"A $1,149.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17375,2026-08-22T04:24:25Z,2026-08,Agosto,Mercado Pago Tarjetas,Mercado Pago Tarjetas,1797,0,EXPIRED,NO_CONVERTIDO,2026-08-22T04:24:27Z,2026-08-22T04:25:21Z,,"A $1,797.00 MXN payment is pending using a Visa ending in 3108."
+#17385,2026-08-23T03:56:41Z,2026-08,Agosto,Openpay,Openpay,1368,0,EXPIRED,NO_CONVERTIDO,2026-08-23T03:56:42Z,2026-08-25T15:56:01Z,,"A $1,368.00 MXN payment is pending on Openpay."
+#17389,2026-08-23T14:19:48Z,2026-08,Agosto,Openpay,Openpay,1398,0,EXPIRED,NO_CONVERTIDO,2026-08-23T14:19:49Z,2026-08-25T20:29:17Z,,"A $1,398.00 MXN payment is pending on Openpay."
+#17406,2026-08-25T01:21:18Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,1398,0,EXPIRED,NO_CONVERTIDO,2026-08-25T01:21:19Z,2026-08-26T15:40:52Z,,"A $1,398.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17408,2026-08-25T06:41:11Z,2026-08,Agosto,Mercado Pago Tarjetas,Mercado Pago Tarjetas,2995,0,EXPIRED,NO_CONVERTIDO,2026-08-25T06:41:12Z,2026-08-25T06:42:06Z,,"A $2,995.00 MXN payment is pending using a Visa ending in 8442."
+#17413,2026-08-26T05:41:18Z,2026-08,Agosto,Mercado Pago Tarjetas,Mercado Pago Tarjetas,2746,0,EXPIRED,NO_CONVERTIDO,2026-08-26T05:41:19Z,2026-08-26T05:42:13Z,,"A $2,746.00 MXN payment is pending using a Visa ending in 9567."
+#17416,2026-08-26T11:50:40Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,1048,0,EXPIRED,NO_CONVERTIDO,2026-08-26T11:50:41Z,,,"A $1,048.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17419,2026-08-26T15:58:47Z,2026-08,Agosto,Openpay,Openpay,2698,0,PENDING,PENDIENTE,2026-08-26T15:58:47Z,,,"A $2,698.00 MXN payment is pending on Openpay."
+#17420,2026-08-26T16:57:23Z,2026-08,Agosto,Mercado Pago Tarjetas,Mercado Pago Tarjetas,2746,0,EXPIRED,NO_CONVERTIDO,2026-08-26T16:57:25Z,2026-08-26T16:58:18Z,,"A $2,746.00 MXN payment is pending using a American Express ending in 4006."
+#17423,2026-08-26T23:37:42Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,1348,0,PENDING,PENDIENTE,2026-08-26T23:37:43Z,,,"A $1,348.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17424,2026-08-27T00:22:20Z,2026-08,Agosto,Checkout Mercado Pago,Mercado Pago Checkout Pro,1348,0,PENDING,PENDIENTE,2026-08-27T00:22:21Z,,,"A $1,348.00 MXN payment is pending on Mercado Pago Checkout Pro."
+#17429,2026-08-27T05:10:29Z,2026-08,Agosto,Mercado Pago Tarjetas,Mercado Pago Tarjetas,2047,0,EXPIRED,NO_CONVERTIDO,2026-08-27T05:10:30Z,2026-08-27T05:11:25Z,,"A $2,047.00 MXN payment is pending using a Visa ending in 0292."

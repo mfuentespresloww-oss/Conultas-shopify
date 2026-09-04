@@ -1,0 +1,9 @@
+﻿mes_key,mes,pedidos_totales,venta_neta_cobrada,pending_total,incidencia_pending_pct,pending_pagados,pending_no_convertidos,pending_abiertos,pending_resueltos,conversion_pending_pct,venta_pending_recuperada,recuperada_sobre_venta_pct,valor_pending_no_convertido,no_convertido_sobre_venta_pct,valor_pending_abierto,tiempo_promedio_pago_min,tiempo_mediana_pago_min
+2026-01,Enero,183,246252.83,10,5.46,6,4,0,10,60,7351.94,2.99,5363.2,2.18,0,1912.5,1342.5
+2026-02,Febrero,155,198439.56,17,10.97,6,11,0,17,35.29,9599.23,4.84,12726.8,6.41,0,1834.7,1534.5
+2026-03,Marzo,154,218145.64,23,14.94,5,18,0,23,21.74,8557.5,3.92,27936.05,12.81,0,1517.4,1285
+2026-04,Abril,158,223230.26,17,10.76,2,15,0,17,11.76,3316.53,1.49,22566.25,10.11,0,358.2,358.2
+2026-05,Mayo,313,446436.89,18,5.75,8,10,0,18,44.44,9063.62,2.03,11338.23,2.54,0,1656.4,1208.3
+2026-06,Junio,250,368215.16,15,6,6,9,0,15,40,11595.82,3.15,11321.14,3.07,0,4026.3,2018.9
+2026-07,Julio,236,332912.27,21,8.9,12,9,0,21,57.14,15652.81,4.7,14305.8,4.3,0,1999.8,1493.5
+2026-08,Agosto,348,508935.49,30,8.62,7,20,3,27,25.93,9610.54,1.89,38184.16,7.5,5394,569.9,261.5

@@ -1,0 +1,26 @@
+﻿mes_key,mes,gateway,pending_total,participacion_pending_mes_pct,pagados,no_convertidos,abiertos,resueltos,conversion_pct,venta_recuperada,valor_no_convertido,valor_pendiente,tiempo_promedio_pago_min,tiempo_mediana_pago_min
+2026-01,Enero,Checkout Mercado Pago,2,20,2,0,0,2,100,2077.1,0,0,3325.2,3325.2
+2026-01,Enero,Openpay,7,70,4,3,0,7,57.14,5274.84,4564.2,0,1206.2,1049.7
+2026-01,Enero,"Compra ahora, paga después",1,10,0,1,0,1,0,0,799,0,,
+2026-02,Febrero,Checkout Mercado Pago,8,47.06,2,6,0,8,25,2007.1,5304.7,0,1795.5,1795.5
+2026-02,Febrero,Openpay,9,52.94,4,5,0,9,44.44,7592.13,7422.1,0,1854.2,1534.5
+2026-03,Marzo,Checkout Mercado Pago,10,43.48,4,6,0,10,40,7408.5,7478,0,1581,1342
+2026-03,Marzo,Openpay,11,47.83,0,11,0,11,0,0,19659.05,0,,
+2026-03,Marzo,"Compra ahora, paga después",2,8.7,1,1,0,2,50,1149,799,0,1263.1,1263.1
+2026-04,Abril,Checkout Mercado Pago,5,29.41,0,5,0,5,0,0,7341,0,,
+2026-04,Abril,Openpay,10,58.82,1,9,0,10,10,1654,14358.25,0,532.1,532.1
+2026-04,Abril,"Compra ahora, paga después",1,5.88,0,1,0,1,0,0,867,0,,
+2026-04,Abril,Mercado Pago Tarjetas,1,5.88,1,0,0,1,100,1662.53,0,0,184.3,184.3
+2026-05,Mayo,Checkout Mercado Pago,5,27.78,3,2,0,5,60,3608.65,2496,0,2132.3,2182.8
+2026-05,Mayo,Openpay,13,72.22,5,8,0,13,38.46,5454.97,8842.23,0,1370.9,829.7
+2026-06,Junio,Openpay,10,66.67,2,8,0,10,20,4390.5,9271.3,0,1588,1588
+2026-06,Junio,Checkout Mercado Pago,3,20,3,0,0,3,100,6576.12,0,0,1784.4,1525.3
+2026-06,Junio,Mercado Pago Tarjetas,1,6.67,0,1,0,1,0,0,2049.84,0,,
+2026-06,Junio,PayPal,1,6.67,1,0,0,1,100,629.2,0,0,15628.3,15628.3
+2026-07,Julio,Checkout Mercado Pago,8,38.1,6,2,0,8,75,6182.35,3474,0,3130.3,2495.4
+2026-07,Julio,Openpay,12,57.14,5,7,0,12,41.67,7612.86,10831.8,0,871.1,74.3
+2026-07,Julio,"Compra ahora, paga después",1,4.76,1,0,0,1,100,1857.6,0,0,860.8,860.8
+2026-08,Agosto,Openpay,16,53.33,5,10,1,15,33.33,7453.74,17115.16,2698,483.7,164.8
+2026-08,Agosto,Checkout Mercado Pago,8,26.67,2,4,2,6,33.33,2156.8,6342,2696,785.4,785.4
+2026-08,Agosto,"Compra ahora, paga después",1,3.33,0,1,0,1,0,0,2396,0,,
+2026-08,Agosto,Mercado Pago Tarjetas,5,16.67,0,5,0,5,0,0,12331,0,,

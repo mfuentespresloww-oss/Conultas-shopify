@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "csv-parse": "^7.0.2",
+    "exceljs": "^4.4.0",
     "googleapis": "^176.0.0"
   }
 }
